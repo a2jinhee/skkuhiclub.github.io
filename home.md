@@ -6,8 +6,10 @@ nav_order: 1
 
 Hi! This is HI-Club speaking!
 
-This site is undergoing construction, so some information may be incorrect.  
-For any questions, please contact us through [instagram](https://www.instagram.com/skku_hiclub/?hl=en)!
+{: .warning }
+
+> This site is undergoing construction, so some information may be incorrect.  
+> For any questions, please contact us through [instagram](https://www.instagram.com/skku_hiclub/?hl=en)!
 
 <br>
 
