@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HI-CLUB Notices
+title: Notices
 nav_order: 5
 has_children: true
 ---

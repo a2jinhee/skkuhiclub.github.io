@@ -2,7 +2,6 @@
 layout: page
 title: Home
 nav_order: 1
-# permalink: /about/
 ---
 
 Hi! This is HI-Club speaking!
