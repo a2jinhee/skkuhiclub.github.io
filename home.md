@@ -5,14 +5,14 @@ nav_order: 1
 # permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! This is HI-Club speaking!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This site is undergoing construction, so some information may be incorrect.  
+For any questions, please contact us through [instagram](https://www.instagram.com/skku_hiclub/?hl=en)!
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<br>
 
-[jekyll-organization]: https://github.com/jekyll
+<p align="center">
+<img src="/assets/images/logo.png"  width="40%" height="40%">
+<img src="/assets/images/logo2.png"  width="40%" height="40%">
+</p>
